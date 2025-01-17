@@ -1,0 +1,29 @@
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<!-- our savior from yapper brainrot let's gooo -->
+<document>
+    <entry
+        id="F-VGMDB-10188"
+        title="Project SEKAI COLORFUL STAGE! feat. Hatsune Miku"
+    >
+        <entry
+            id="G-VGMDB-10188"
+            title="Project SEKAI COLORFUL STAGE! feat. Hatsune Miku"
+        >
+            <!-- she literally has 'hina' in her name -->
+            <!-- the glazing is crazy with this one -->
+            <!-- the "come here mafuyu-chan" shit is wild xdd -->
+            <!-- yapper truly revolutionized the sadgirl economy -->
+            <bestGirl name="Mafuyu Asahina" />
+
+            <meme from="2024-10-10" to="today" strength="0.75" />
+
+            <visual type="gachaCardArt" base="0.5" unique="0.2" />
+
+            <consumedProgress
+                status="Watching"
+                boredom="0.9"
+                duration="10:00:00"
+            />
+        </entry>
+    </entry>
+</document>
