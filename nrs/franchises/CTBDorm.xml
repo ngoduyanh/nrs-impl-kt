@@ -32,6 +32,12 @@
             <!-- (not that bad, but yeah) -->
             <!-- also 11 days left until one year anniversary of that thread! -->
             <meme from="2024-09-01" to="today" strength="0.75" />
+
+            <!-- this is a novel it can't feature music i'm sorry guys -->
+            <remix id="M-20241202T142410-1" />
+            <remix id="M-20241202T142410-2" />
+            <remix id="M-20241202T142410-3" />
+            <remix id="M-20241202T142410-4" />
         </entry>
     </entry>
     <entry
@@ -367,6 +373,47 @@
             <!-- That I'm glad that I met you -->
             <!-- Why do I feel like that I had said those words before somehow? -->
         </entry>
+    </entry>
+
+    <!-- M3-2025 Spring album (not finalized yet!) -->
+    <entry
+        id="M-20241202T142410"
+        title="TV Anime &quot;Hokori Takaki Idol: Prologue of a Rising Star&quot; Character Song CD Vol. 1"
+        entrytype="MusicAlbum"
+    >
+        <!-- yapper brainrot lab arc reference -->
+        <entry id="$-1" title="Stella (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <nei base="0.9" emotions="MU-0.3:CP-0.7" />
+        </entry>
+
+        <!-- mikohiyo yuri canon -->
+        <entry id="$-2" title="Teammate (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <!-- nozsist duybua hiyori my beloved -->
+            <aei base="0.2" emotions="MP-0.6:CP-0.4" />
+        </entry>
+
+        <!-- utasama im sorry for this one more time -->
+        <!-- scholarship reference (no way they actually got 19.8MVND) -->
+        <entry id="$-3" title="Umarete Hajimete (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <!-- c-word -->
+            <nei base="0.5" emotions="MP" />
+        </entry>
+
+        <!-- painpeko someone please kill me -->
+        <entry id="$-4" title="Watashi no R (CTB Girls' Dorm ver.)">
+            <validatorSuppress rules="dah-entry-no-consumed;dah-no-progress" />
+            <role id="M-20240815T042406" roles="vocal+image" />
+            <aei base="0.0" emotions="CU" />
+        </entry>
+
+        <!-- more to come... -->
     </entry>
 
     <meme from="2023-11-20" to="today" strength="0.3">

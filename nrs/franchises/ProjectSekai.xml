@@ -1,0 +1,47 @@
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<!-- our savior from yapper brainrot let's gooo -->
+<document>
+    <entry
+        id="F-VGMDB-10188"
+        title="Project SEKAI COLORFUL STAGE! feat. Hatsune Miku"
+    >
+        <entry
+            id="G-VGMDB-10188"
+            title="Project SEKAI COLORFUL STAGE! feat. Hatsune Miku"
+        >
+            <!-- she literally has 'hina' in her name -->
+            <!-- the glazing is crazy with this one -->
+            <!-- the "come here mafuyu-chan" shit is wild xdd -->
+            <!-- yapper truly revolutionized the sadgirl economy -->
+            <bestGirl name="Mafuyu Asahina" />
+
+            <meme from="2024-10-10" to="today" strength="0.75" />
+
+            <visual type="gachaCardArt" base="0.5" unique="0.2" />
+
+            <consumedProgress
+                status="Watching"
+                boredom="0.9"
+                duration="10:00:00"
+            />
+        </entry>
+
+        <entry id="M-VGMDB-AL-110345" title="needLe/Stella / Leo/need">
+            <visual type="albumArt" base="0.5" unique="0.3" />
+            <entry id="$-2" title="Stella">
+                <visual type="animatedMV" base="0.4" unique="0.6" />
+                <musicConsumedProgress length="5:25" />
+                <music base="0.7" />
+                <remix id="M-20241202T142410-1" />
+            </entry>
+        </entry>
+
+        <entry id="M-20241202T141801" title="Teammate" entrytype="MusicTrack">
+            <visual type="animatedMV" base="0.5" unique="0.4" />
+            <role id="M-VGMDB-AR-14655" roles="prod+image_feat" />
+            <musicConsumedProgress length="4:26" />
+            <music base="0.65" />
+            <remix id="M-20241202T142410-2" />
+        </entry>
+    </entry>
+</document>

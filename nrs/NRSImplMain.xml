@@ -70,6 +70,7 @@
     <include src="franchises/OsuGame.xml" />
     <include src="meme/PostModern.xml" />
     <include src="franchises/Priconne.xml" />
+    <include src="franchises/ProjectSekai.xml" />
     <include src="franchises/RentAGirlfriend.xml" />
     <include src="franchises/ReStage.xml" />
     <include src="franchises/RikeKoi.xml" />

@@ -1089,4 +1089,15 @@
         <role id="M-VGMDB-AR-35717" roles="prod+image" />
         <role id="M-VGMDB-AR-6799" roles="vocal+image_feat" />
     </entry>
+
+    <entry
+        id="M-20241202T142134"
+        title="Umarete Hajimete"
+        entrytype="MusicTrack"
+    >
+        <visual type="animatedMV" base="0.3" unique="0.6" />
+        <musicConsumedProgress length="3:42" />
+        <music base="0.3" />
+        <remix id="M-20241202T142410-3" />
+    </entry>
 </document>

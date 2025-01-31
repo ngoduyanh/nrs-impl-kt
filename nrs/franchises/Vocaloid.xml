@@ -500,4 +500,19 @@
             <musicConsumedProgress length="3:30" />
         </entry>
     </entry>
+
+    <!-- ayumu-era masterpiece reincarnated as yapper brainrot you like to see it -->
+    <entry
+        id="M-20241205T092438"
+        title="Watashi no Miseinen Kansoku"
+        entrytype="MusicAlbum"
+    >
+        <visual type="albumArt" base="0.2" unique="0.5" />
+        <entry id="$-1" title="Watashi no R">
+            <aei base="0.8" emotions="CU" />
+            <music base="0.65" />
+            <musicConsumedProgress length="3:34" />
+            <remix id="M-20241202T142410-4" />
+        </entry>
+    </entry>
 </document>
