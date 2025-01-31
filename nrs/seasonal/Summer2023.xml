@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- "everyone is down bad for the MC" the anime -->
     <entry
@@ -21,6 +21,7 @@
 
         <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
         <visual type="animated" base="0.5" unique="0.3" />
+        <writing character="0.5" story="0.3" pacing="0.8" originality="0.5" />
     </entry>
 
     <entry id="M-VGMDB-AL-130741" title="Kyuseishu / Tsukuyomi">

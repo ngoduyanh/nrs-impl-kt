@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3939" title="Gochuumon wa Usagi Desu ka?">
         <entry id="M-VGMDB-AL-44890" title="Daydream café / Petit Rabbit's">
@@ -37,6 +37,12 @@
                 <music base="0.38" />
                 <role id="M-VGMDB-AR-15361" roles="vocal+image_feat" />
             </entry>
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.6"
+                originality="0.3"
+            />
         </entry>
 
         <entry
@@ -67,6 +73,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.4" unique="0.15" />
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.6"
+                originality="0.3"
+            />
         </entry>
     </entry>
 </document>

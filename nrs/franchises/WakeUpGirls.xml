@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- A wise man once said: -->
     <!-- Every EI (emotional impact) post rst arc 1, -->
@@ -58,6 +58,12 @@
 
             <featureMusic id="M-VGMDB-AL-46042-1" />
             <visual type="animated" base="0.4" unique="0.6" />
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.7"
+                originality="0.5"
+            />
         </entry>
 
         <entry id="A-MAL-19023" title="Wake Up, Girls!">
@@ -79,6 +85,12 @@
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.5" />
             <featureMusic id="M-VGMDB-AL-42945-1" />
             <visual type="animated" base="0.4" unique="0.6" />
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="A-MAL-28841" title="Wake Up, Girls! Seishun no Kage">
@@ -99,6 +111,12 @@
             />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.5" />
             <visual type="animated" base="0.4" unique="0.6" />
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="A-MAL-30419" title="Wake Up, Girls! Beyond the Bottom">
@@ -119,6 +137,12 @@
             />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.5" />
             <visual type="animated" base="0.4" unique="0.6" />
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="A-MAL-34522" title="Wake Up, Girls! Shin Shou">
@@ -138,6 +162,12 @@
             />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.5" />
             <visual type="animated" base="0.3" unique="0.6" />
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
     </entry>
 

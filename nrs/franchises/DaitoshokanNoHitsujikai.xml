@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3065" title="Daitoshokan no Hitsujikai">
         <entry id="A-MAL-17827" title="Daitoshokan no Hitsujikai">
@@ -31,6 +31,12 @@
             <nei base="0.8" emotions="AP" />
 
             <featureMusic id="M-VGMDB-AL-48292-1" />
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.3"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-34086" title="Straight Sheep / Yumekai Biyori">

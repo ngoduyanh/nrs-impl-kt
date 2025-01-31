@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- the first CP farmer in NRS -->
     <!-- but they got dropped sadge -->
@@ -35,6 +35,12 @@
 
             <featureMusic id="M-VGMDB-AL-73544-1" />
             <featureMusic id="M-VGMDB-AL-73544-2" />
+            <writing
+                character="0.8"
+                story="0.8"
+                pacing="0.6"
+                originality="0.8"
+            />
         </entry>
 
         <entry

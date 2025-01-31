@@ -1,45 +1,10 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- himeno sena and her consequences :skull: -->
     <!-- tl;dr: cultural doomerism died, cultural revisionism and -->
     <!-- cultural believism grew, observism has its own party (the COP), -->
     <!-- remodernization, the return of romance and the weakening of -->
     <!-- the heisenberg uncertainty principle -->
-
-    <entry
-        id="A-MAL-52736"
-        title="Tensei Oujo to Tensai Reijou no Mahou Kakumei"
-    >
-        <source>
-            <adb id="52736" />
-            <ks id="46335" />
-            <al id="153629" />
-            <mal id="52736" />
-        </source>
-
-        <!-- pogpega it's le cat !!1!1!! -->
-        <bestGirl name="Lainie Cyan" />
-        <!-- imagine still talking about le cat like it was in arc 2 -->
-        <!-- like bruh himeno sena exists now you fucking dumbass -->
-        <bestGirl name="Anisphia Wynn Palletia" />
-
-        <animeConsumedProgress status="Completed" boredom="0.8" episodes="12" />
-        <visual type="animated" base="0.5" unique="0.3" />
-
-        <!-- the first ep already gave me chill :skull: -->
-        <aei base="0.2" emotions="CP-0.8:MP-0.2" />
-
-        <!-- clueless mfs ^^^^ -->
-        <!-- thank you based localism -->
-        <!-- thank you based localism -->
-        <!-- thank you based localism -->
-        <!-- thank you based localism -->
-        <!-- thank you based localism -->
-        <cry emotions="CP-0.8:MP-0.2">
-            <contributor id="A-MAL-52736" factor="0.5" />
-            <contributor id="localism [null entry]" factor="0.5" />
-        </cry>
-    </entry>
 
     <entry id="A-MAL-49980" title="Sugar Apple Fairy Tale">
         <source>
@@ -54,6 +19,7 @@
 
         <animeConsumedProgress status="Completed" boredom="0.7" episodes="12" />
         <visual type="animated" base="0.4" unique="0.6" />
+        <writing character="0.5" story="0.4" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry
@@ -68,6 +34,7 @@
         </source>
 
         <!-- lmfao "wilbell 2023" -->
+        <!-- (meta witch reference real) -->
         <!-- jk lol -->
         <bestGirl name="Tiana" />
 
@@ -78,6 +45,7 @@
         <!-- focus on [trust], somewhat interesting -->
         <!-- idk will this be able to continued to other eps tho -->
         <nei base="0.2" emotions="AP" />
+        <writing character="0.5" story="0.5" pacing="0.8" originality="0.6" />
     </entry>
 
     <!-- ngl this is way better than previous season -->
@@ -119,13 +87,21 @@
             />
             <featureMusic id="M-VGMDB-AL-125425-1" />
             <featureMusic id="M-VGMDB-AL-125426-1" />
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-125425" title="DAY1 / AUO feat. MORISAKI WIN">
             <visual type="albumArt" base="0.3" unique="0.9" />
 
             <entry id="$-1" title="DAY1">
-                <!-- i also disregarded this op but it ĭ̴̢̝̜͉̍̂́͂̄͂͂̕͝n̶̦̥̟̺̯͕͚͙̹͉͇̗̖̽̽͊̿̈́̕͜͜f̴͕͍̳̊̒͆̾̏͛̋͒̏͊͛̕͠͝e̴͚̰͔͉̟̦̦̩̞͓̺̲̓͆̚c̷̢̨̨̘̭̟͚̜̱͇̮̫͓̗̅̈́͆̋̓͐̅́͌͛̓̈͛̕͝ẗ̴̫́͋̔̀͋̒̕e̶̖͗̐̔̊͒̀͝d̸͇̄̒̐̀͑̌̓͘͠ me -->
+                <!-- i also disregarded this op but it
+                ĭ̴̢̝̜͉̍̂́͂̄͂͂̕͝n̶̦̥̟̺̯͕͚͙̹͉͇̗̖̽̽͊̿̈́̕͜͜f̴͕͍̳̊̒͆̾̏͛̋͒̏͊͛̕͠͝e̴͚̰͔͉̟̦̦̩̞͓̺̲̓͆̚c̷̢̨̨̘̭̟͚̜̱͇̮̫͓̗̅̈́͆̋̓͐̅́͌͛̓̈͛̕͝ẗ̴̫́͋̔̀͋̒̕e̶̖͗̐̔̊͒̀͝d̸͇̄̒̐̀͑̌̓͘͠
+                me -->
                 <music base="0.29" />
                 <musicConsumedProgress length="3:58" />
             </entry>

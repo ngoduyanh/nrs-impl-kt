@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry
         id="A-MAL-53590"
@@ -17,6 +17,7 @@
 
         <!-- sadge ig -->
         <nei base="0.2" emotions="CU" />
+        <writing character="0.6" story="0.3" pacing="0.8" originality="0.7" />
     </entry>
 
     <entry
@@ -44,6 +45,7 @@
         <!-- early season hype -->
         <!-- ded tho -->
         <nei base="0.5" emotions="AP" />
+        <writing character="0.4" story="0.3" pacing="0.8" originality="0.6" />
     </entry>
 
     <entry id="A-MAL-52299" title="Ore dake Level Up na Ken">
@@ -63,6 +65,9 @@
 
         <!-- gotta say animation is cool tho -->
         <visual type="animated" base="0.7" unique="0.5" />
+
+        <!-- sister leveling -->
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.4" />
     </entry>
 
     <entry id="A-MAL-54722" title="Mahou Shoujo ni Akogarete">
@@ -82,5 +87,6 @@
         <ehi />
 
         <visual type="animated" base="0.4" unique="0.4" />
+        <writing character="0.5" story="0.3" pacing="0.8" originality="0.8" />
     </entry>
 </document>

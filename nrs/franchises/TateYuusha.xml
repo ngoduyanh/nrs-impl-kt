@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-7166" title="Tate no Yuusha no Nariagari">
         <entry id="A-MAL-35790" title="Tate no Yuusha no Nariagari">
@@ -22,6 +22,12 @@
             <nei base="0.5" emotions="AU" />
             <meme strength="0.5" length="6" />
             <visual type="animated" base="0.5" unique="0.2" />
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
 
         <entry id="A-MAL-40356" title="Tate no Yuusha no Nariagari Season 2">
@@ -41,6 +47,12 @@
             <dropped />
             <killedBy id="F-VGMDB-7059" potential="0.2" effect="0.75" />
             <visual type="animated" base="0.4" unique="0.2" />
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.6"
+                originality="0.5"
+            />
         </entry>
     </entry>
 </document>

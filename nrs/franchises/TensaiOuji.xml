@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-10006" title="Tensai Ouji no Akaji Kokka Saiseijutsu">
         <entry id="A-MAL-47159" title="Tensai Ouji no Akaji Kokka Saisei Jutsu">
@@ -28,6 +28,12 @@
             <killedBy id="F-VGMDB-9540" potential="0.05" effect="0.05" />
             <killedBy id="F-VGMDB-7059" potential="0.05" effect="0.05" />
             <killedBy id="F-VGMDB-4499" potential="0.05" effect="0.2" />
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.6"
+                originality="0.5"
+            />
         </entry>
 
         <entry

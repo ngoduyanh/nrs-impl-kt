@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-4615" title="Kimi no Na wa">
         <!-- TODO: add music ig, too lazy to do that tho (and the music sucks) -->
@@ -39,6 +39,12 @@
             />
 
             <featureMusic id="M-VGMDB-AL-82251-12" />
+            <writing
+                character="0.4"
+                story="0.7"
+                pacing="0.7"
+                originality="0.9"
+            />
         </entry>
         <entry id="M-VGMDB-AL-82251" title="Ningen Kaika / RADWIMPS">
             <visual type="albumArt" base="0.15" unique="0.5" />
@@ -102,6 +108,12 @@
                 episodeDuration="1:52:00"
             />
             <featureMusic id="M-VGMDB-AL-87003" />
+            <writing
+                character="0.4"
+                story="0.7"
+                pacing="0.7"
+                originality="0.9"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-87003" title="Tenki no Ko / RADWIMPS">

@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- strength is relatively small (it's post-modern after all) -->
     <def name="PostModernMeme" vars="a_strength:double" visibility="public">
@@ -69,6 +69,7 @@
         <validatorSuppress rules="dah-no-best-girl" />
 
         <nei base="0.5" emotions="AP" />
+        <writing character="0.2" story="0.5" pacing="0.5" originality="0.9" />
     </entry>
 
     <!-- localism -->

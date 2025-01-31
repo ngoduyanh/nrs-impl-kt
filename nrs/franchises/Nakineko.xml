@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- i hate himeno sena -->
     <entry id="F-VGMDB-8433" title="Nakitai Watashi wa Neko wo Kaburu">
@@ -24,6 +24,12 @@
             />
             <aei base="0.1" emotions="MP-0.5:CU-0.5" />
             <featureMusic id="M-VGMDB-AL-99082-1" />
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-99082" title="Hana ni Bourei / Yorushika">

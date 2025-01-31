@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-6946" title="Egao no Daika">
         <entry id="A-MAL-38544" title="Egao no Daika">
@@ -31,6 +31,12 @@
             <visual type="animated" base="0.5" unique="0.3" />
             <featureMusic id="M-VGMDB-AL-81448-1" />
             <aei base="0.75" emotions="CU-0.5:MP-0.25:AP-0.25" />
+            <writing
+                character="0.6"
+                story="0.8"
+                pacing="0.3"
+                originality="0.8"
+            />
         </entry>
 
         <entry

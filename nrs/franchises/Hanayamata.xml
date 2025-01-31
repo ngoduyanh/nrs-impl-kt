@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- the good old days -->
     <!-- everything was in order -->
@@ -25,6 +25,12 @@
             <!-- first ep aei -->
             <aei base="0.2" emotions="MP-0.3:CP-0.7" />
             <featureMusic id="M-VGMDB-AL-46235-1" />
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.6"
+                originality="0.4"
+            />
         </entry>
 
         <entry

@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- 2023 is the year of isekai -->
     <entry id="F-VGMDB-9991" title="Kage no Jitsuryokusha ni Naritakute!">
@@ -15,11 +15,14 @@
                 <mal id="48316" />
             </source>
 
+            <!-- meta witch 2023 -->
             <bestGirl name="Sherry Barnett" />
             <!-- aka himeno sena 2023 -->
             <!-- worse life than sena FeelsStrongMan -->
             <!-- best girl discussion: https://github.com/ngoduyanh/nrs-impl-kt/discussions/380 -->
             <!-- got fucked himeno sena: https://github.com/ngoduyanh/nrs-impl-kt/issues/260 -->
+            <!-- haha meta witch:
+            https://github.com/btmxh/nrs-impl/discussions/539#discussioncomment-11842993 -->
 
             <!-- dont let her looks fool you, she is not in anyway related to the idol franchise -->
             <!-- love live (:skull:), she is not rina-chan boardo (you will pay for that -->
@@ -40,7 +43,9 @@
                 <contributor id="F-20221128T123502" factor="0.1" />
             </aei>
 
-            <!-- i'm sorry but https://github.com/ngoduyanh/nrs-impl-kt/issues/385#issuecomment-1455132759 -->
+            <!-- i'm sorry but
+            https://github.com/ngoduyanh/nrs-impl-kt/issues/385#issuecomment-1455132759 -->
+            <!-- yapper neg diff -->
             <waifu waifu="Sherry Barnett" from="2023-03-01" to="2023-03-12" />
 
             <!-- I AM atomic -->
@@ -71,6 +76,13 @@
                 status="Completed"
                 boredom="1.0"
                 episodes="20"
+            />
+
+            <writing
+                character="0.6"
+                story="0.8"
+                pacing="0.8"
+                originality="0.7"
             />
         </entry>
 
@@ -122,6 +134,12 @@
             <dropped />
             <!-- no sherry kekwing -->
             <visual type="animated" base="0.3" unique="0.4" />
+            <writing
+                character="0.6"
+                story="0.8"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
     </entry>
 </document>

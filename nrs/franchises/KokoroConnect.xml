@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3483" title="Kokoro Connect">
         <entry
@@ -49,6 +49,12 @@
             <visual type="animated" base="0.4" unique="0.3" />
 
             <featureMusic id="M-VGMDB-AL-35431" />
+            <writing
+                character="0.8"
+                story="0.65"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <entry id="A-MAL-16001" title="Kokoro Connect: Michi Random">
@@ -66,6 +72,12 @@
                 episodes="4"
             />
             <visual type="animated" base="0.4" unique="0.3" />
+            <writing
+                character="0.8"
+                story="0.65"
+                pacing="0.7"
+                originality="0.7"
+            />
         </entry>
     </entry>
 </document>

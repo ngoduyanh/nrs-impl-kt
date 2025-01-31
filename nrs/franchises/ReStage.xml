@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <!-- gee-zay honesty -->
 <!-- where is the glorious rst -->
 <!-- watch rst and buy the bluray -->
@@ -186,6 +186,7 @@
             <!-- https://srgym.official.ec/p/00001 -->
 
             <!-- for rst shills <3: https://www.google.com/search?q=grass&tbm=isch -->
+            <!-- yapper from temu -->
             <bestGirl name="Mana Shikimiya" />
             <!-- her seiyuu is the GINGACHAD seiyuu amane makino btw -->
             <!-- play this: https://www.youtube.com/watch?v=QJJYpsA5tv8 -->
@@ -262,6 +263,12 @@
                     <component value="-0.1" factor="Art.Visual" />
                 </score>
             </regularImpact>
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.8"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-78536" title="Startin' My Re:STAGE!! / KiRaRe">
@@ -1268,6 +1275,9 @@
             <!-- GateOpen("F-VGMDB-4499") -->
 
             <!-- AllRstTracks.keys.forEach { Feature<music base="it" /> } -->
+
+            <!-- i mean i cant read the story -->
+            <validatorSuppress rules="dah-no-writing-impact" />
         </entry>
 
         <killedBy id="F-VGMDB-4499" potential="0.4" effect="0.9">
@@ -1319,6 +1329,7 @@
         <!-- as always (low potential because rst actually helped oshibudo tho, -->
         <!-- but it's still a kill) -->
         <killedBy id="F-VGMDB-7059" potential="0.25" effect="0.5" />
+        <writing character="0.5" story="0.6" pacing="0.8" originality="0.8" />
     </entry>
 
     <aei base="1.0" emotions="CP-0.9:MP-0.1">

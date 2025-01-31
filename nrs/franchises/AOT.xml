@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <!-- imagine losing to a contentless franchise xddddddddddddd -->
 <document>
     <entry id="F-VGMDB-2931" title="Shingeki no Kyojin">
@@ -25,6 +25,13 @@
                 episodes="25"
             />
             <visual type="animated" base="0.2" unique="0.6" />
+            <!-- i pull these numbers from my ass xdd -->
+            <writing
+                character="0.5"
+                story="0.6"
+                pacing="0.6"
+                originality="0.8"
+            />
         </entry>
 
         <entry id="A-MAL-25777" title="Shingeki no Kyojin Season 2">
@@ -41,6 +48,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.2" unique="0.6" />
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.6"
+                originality="0.7"
+            />
         </entry>
 
         <entry id="A-MAL-35760" title="Shingeki no Kyojin Season 3">
@@ -57,6 +70,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.2" unique="0.6" />
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.6"
+                originality="0.7"
+            />
         </entry>
 
         <!-- this has more score than almost all love live animes -->
@@ -79,6 +98,12 @@
             />
             <aei base="0.5" emotions="AP" />
             <visual type="animated" base="0.2" unique="0.6" />
+            <writing
+                character="0.6"
+                story="0.7"
+                pacing="0.6"
+                originality="0.7"
+            />
         </entry>
     </entry>
 </document>

@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="A-MAL-38816" title="Hello World">
         <source>
@@ -19,6 +19,7 @@
         />
         <!-- the cg kinda help with making the anime unique lol -->
         <visual type="animated" base="0.4" unique="0.6" />
+        <writing character="0.6" story="0.4" pacing="0.5" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-40295" title="Another World">
@@ -33,6 +34,7 @@
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="3" />
         <!-- the cg kinda help with making the anime unique lol -->
         <visual type="animated" base="0.4" unique="0.6" />
+        <writing character="0.6" story="0.4" pacing="0.5" originality="0.7" />
     </entry>
 
     <aei base="0.9" emotions="CU">

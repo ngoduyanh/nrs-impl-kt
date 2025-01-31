@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="L-MAL-110953" title="Neeko wa Tsurai yo" entrytype="Manga">
         <!-- Yes, I hate capitalism and its foes, how could you tell? -->
@@ -16,6 +16,7 @@
         <!-- didn't realize that i kinda want an anime daughter ngl -->
         <!-- anti-lovists in shambles rn -->
         <!-- (the dqc daughter meme comes from here kekw) -->
+        <writing character="0.6" story="0.3" pacing="0.8" originality="0.9" />
     </entry>
 
     <entry id="A-MAL-52092" title="My Home Hero">
@@ -32,6 +33,7 @@
         <aei base="0.2" emotions="AP" />
         <visual type="animated" base="0.2" unique="0.4" />
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-48981" title="Mahou Shoujo Magical Destroyers">
@@ -49,6 +51,7 @@
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
 
         <featureMusic id="M-VGMDB-AL-128439-1" />
+        <writing character="0.4" story="0.3" pacing="0.8" originality="0.6" />
     </entry>
 
     <entry id="M-VGMDB-AL-128439" title="MAGICAL DESTROYER / Aimi">
@@ -95,6 +98,7 @@
 
         <featureMusic id="M-VGMDB-AL-127924-1" />
         <featureMusic id="M-VGMDB-AL-127927-1" />
+        <writing character="0.4" story="0.3" pacing="0.8" originality="0.4" />
     </entry>
 
     <entry id="M-VGMDB-AL-127924" title="Dash and Go! / Aina Suzuki">

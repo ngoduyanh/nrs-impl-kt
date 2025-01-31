@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-6083" title="Arifureta Shokugyou de Sekaisaikyou">
         <entry id="A-MAL-36882" title="Arifureta Shokugyou de Sekai Saikyou">
@@ -21,6 +21,12 @@
             <visual type="animated" base="0.5" unique="0.1" />
 
             <featureMusic id="M-VGMDB-AL-86592-1" />
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.5"
+                originality="0.2"
+            />
         </entry>
 
         <contains id="M-VGMDB-AL-86592-1" />

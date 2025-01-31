@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-9342" title="Gotoubun no Hanayome">
         <entry id="A-MAL-38101" title="5-toubun no Hanayome">
@@ -21,6 +21,12 @@
             <aei base="0.5" emotions="AP" />
             <visual type="animated" base="0.5" unique="0.5" />
             <featureMusic id="M-VGMDB-AL-82284" />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.6"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="A-MAL-39783" title="5-toubun no Hanayome ∬">
@@ -43,6 +49,12 @@
             <!-- but it actually is -->
             <aei base="0.25" emotions="AP" />
             <visual type="animated" base="0.5" unique="0.5" />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.6"
+                originality="0.3"
+            />
         </entry>
 
         <entry

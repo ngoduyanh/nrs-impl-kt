@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-6626" title="Iroduku Sekai no Ashita kara">
         <entry id="A-MAL-37497" title="Irozuku Sekai no Ashita kara">
@@ -20,6 +20,12 @@
 
             <visual type="animated" base="0.6" unique="0.5" />
             <featureMusic id="M-VGMDB-AL-80341-1" />
+            <writing
+                character="0.6"
+                story="0.5"
+                pacing="0.5"
+                originality="0.8"
+            />
         </entry>
 
         <contains id="M-VGMDB-AL-80341-1" />

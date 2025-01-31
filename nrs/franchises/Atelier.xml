@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- Asuiro Koi Moyou and its consequences have been a disaster for our modern culture -->
     <entry id="F-VGMDB-694" title="Atelier">
@@ -93,6 +93,8 @@
             <!-- anyways, it seems that "the father analogy" might have a sequel, -->
             <!-- which is "the wife analogy" -->
             <!-- fuck miharuists, they're taking over modern culture -->
+
+            <!-- yapper neg diff this -->
             <bestGirl name="Escha Malier" />
 
             <!-- https://www.facebook.com/photo?fbid=5382806931808771&set=a.109501952472655 -->
@@ -130,6 +132,13 @@
 
             <!-- ig this is killed somewhat similarly to luminous witches -->
             <killedBy id="F-VGMDB-7059" potential="0.5" effect="0.25" />
+
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.4"
+                originality="0.5"
+            />
         </entry>
 
         <entry
@@ -176,6 +185,12 @@
                 boredom="1.0"
                 duration="50:00:00"
             />
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.4"
+                originality="0.6"
+            />
         </entry>
 
         <entry
@@ -199,6 +214,13 @@
 
             <!-- i hate "bủ nio" (it's a meme lol) -->
             <nei base="0.8" emotions="AU-0.5:AP-0.5" />
+            <!-- peak cinema -->
+            <writing
+                character="0.4"
+                story="0.3"
+                pacing="0.4"
+                originality="0.6"
+            />
         </entry>
 
         <entry
@@ -222,6 +244,12 @@
             />
             <!-- blame nozsists lmfao -->
             <dropped />
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.4"
+                originality="0.6"
+            />
         </entry>
 
         <entry

@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry
         id="F-VGMDB-11581"
@@ -36,6 +36,12 @@
             <visual type="animated" base="0.75" unique="0.2" />
             <!-- plot pretty good -->
             <aei base="0.5" emotions="AP" />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.5"
+                originality="0.7"
+            />
         </entry>
 
         <entry
@@ -70,6 +76,12 @@
             <aei base="0.1" emotions="AP" />
             <killedBy id="F-VGMDB-4499" potential="0.5" effect="0.1" />
             <killedBy id="M-VGMDB-AL-76155-2" potential="0.5" effect="0.75" />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.5"
+                originality="0.6"
+            />
         </entry>
 
         <entry
@@ -93,6 +105,12 @@
             <visual type="animated" base="0.6" unique="0.2" />
 
             <aei base="0.1" emotions="AP" />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.5"
+                originality="0.6"
+            />
         </entry>
     </entry>
 </document>

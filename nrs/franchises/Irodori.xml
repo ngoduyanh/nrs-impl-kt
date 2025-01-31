@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- original of irodori covers -->
     <entry id="M-VGMDB-AR-9553" title="cosMo@bousouP">
@@ -32,6 +32,12 @@
                 episodeDuration="3:00"
             />
             <visual type="animatedShort" base="0.4" unique="0.2" />
+            <writing
+                character="0.2"
+                story="0.2"
+                pacing="0.5"
+                originality="0.2"
+            />
         </entry>
 
         <entry

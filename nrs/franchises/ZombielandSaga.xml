@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-9825" title="ZOMBIE LAND SAGA">
         <entry id="A-MAL-37976" title="Zombieland Saga">
@@ -18,6 +18,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.4" unique="0.5" />
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
 
         <entry id="A-MAL-40174" title="Zombieland Saga: Revenge">
@@ -39,6 +45,12 @@
             <visual type="animated" base="0.4" unique="0.5" />
             <killedBy id="V-VNDB-12849" potential="0.3" effect="0.2" />
             <featureMusic id="M-VGMDB-AL-109367" />
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.8"
+                originality="0.5"
+            />
         </entry>
 
         <entry

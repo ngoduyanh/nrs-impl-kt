@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- one of the anime seasons of all time -->
     <!-- (why is boatshit everywhere i hate my life) -->
@@ -16,6 +16,7 @@
         <!-- i hate mc btw -->
         <bestGirl name="Reisalin Stout" generatedBy="user" />
         <!-- mi ưhen lô ve li ve vi ây -->
+        <!-- YO ITS SAKIKO FROM THE HIT ANIME SERIES AVE CINEMA -->
 
         <!-- NOZSP (Number One Zettai Saikyou Party) the anime -->
         <!-- average post-modern anime lol: -->
@@ -28,6 +29,7 @@
         <visual type="animated" base="0.6" unique="0.2" />
         <animeConsumedProgress status="Dropped" boredom="0.25" episodes="4" />
         <dropped />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.6" />
     </entry>
 
     <entry id="A-MAL-47917" title="Bocchi the Rock!">
@@ -54,5 +56,6 @@
         <validatorSuppress rules="dah-no-dropped-impact" />
         <dropped />
         <visual type="animated" base="0.4" unique="0.3" />
+        <writing character="0.8" story="0.3" pacing="0.8" originality="0.9" />
     </entry>
 </document>

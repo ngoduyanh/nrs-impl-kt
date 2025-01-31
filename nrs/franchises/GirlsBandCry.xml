@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- note: this ID is subjected to change -->
     <entry id="F-VGMDB-14226" title="Girls Band Cry">
@@ -45,6 +45,12 @@
 
             <!-- tpa slop -->
             <remix id="M-20240815T044532-6" />
+            <writing
+                character="0.7"
+                story="0.8"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <entry

@@ -1,7 +1,7 @@
 {
   "imports": {
-    "nrslib/": "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.1.1/",
-    "nrsml": "https://raw.githubusercontent.com/btmxh/nrsml/v2.4.2/mod.ts",
+    "nrslib/": "https://raw.githubusercontent.com/btmxh/nrs-lib-ts/v2.2.0-pr19+2/",
+    "nrsml": "https://raw.githubusercontent.com/btmxh/nrsml/v2.5.0-pr19+3/mod.ts",
     "csv": "https://deno.land/std@0.224.0/csv/mod.ts",
     "streams": "https://deno.land/std@0.224.0/streams/mod.ts",
     "fs": "https://deno.land/std@0.224.0/fs/mod.ts",

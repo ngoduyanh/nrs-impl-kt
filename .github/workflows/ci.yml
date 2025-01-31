@@ -13,7 +13,7 @@ jobs:
       - name: Create temp directory
         run: mkdir -p temp
       - name: Retrieve schema file
-        run: curl https://raw.githubusercontent.com/ngoduyanh/nrsml/master/xml/schema.xsd -o temp/schema.xsd
+        run: curl https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd -o temp/schema.xsd
       - name: Validate the NRSML documents
         run: xmllint --schema temp/schema.xsd nrs/**/*.xml --noout
   validate:
@@ -28,8 +28,9 @@ jobs:
       - name: Checkout validator repository
         uses: actions/checkout@v4
         with:
-          repository: "ngoduyanh/nrs-validator"
+          repository: "btmxh/nrs-validator"
           path: "temp/nrs-validator"
+          ref: "pr19"
       - name: Generate bulk.json
         run: deno task generate
       - name: Run the validator

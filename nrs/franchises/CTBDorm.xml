@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <!-- here we have releases of ctb girls dorm W -->
 <document>
     <entry
@@ -32,6 +32,12 @@
             <!-- (not that bad, but yeah) -->
             <!-- also 11 days left until one year anniversary of that thread! -->
             <meme from="2024-09-01" to="today" strength="0.75" />
+            <writing
+                character="0.75"
+                story="0.5"
+                pacing="0.0"
+                originality="0.5"
+            />
         </entry>
     </entry>
     <entry

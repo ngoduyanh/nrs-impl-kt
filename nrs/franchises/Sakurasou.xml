@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-2090" title="Sakurasou no Pet na Kanojo">
         <entry id="A-MAL-13759" title="Sakura-sou no Pet na Kanojo">
@@ -31,6 +31,12 @@
             <visual type="animated" base="0.5" unique="0.4" />
 
             <featureMusic id="M-VGMDB-AL-35015-1" />
+            <writing
+                character="0.8"
+                story="0.7"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry

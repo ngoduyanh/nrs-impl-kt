@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-5485" title="Imouto sae Ireba Ii.">
         <entry id="A-MAL-35413" title="Imouto sae Ireba Ii.">
@@ -19,6 +19,12 @@
             <nei base="0.5" emotions="AP" />
             <featureMusic id="M-VGMDB-AL-70621-1" />
             <!-- <gateOpen id="F-VGMDB-3275" /> -->
+            <writing
+                character="0.4"
+                story="0.5"
+                pacing="0.5"
+                originality="0.8"
+            />
         </entry>
 
         <entry

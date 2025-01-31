@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-20220823T083245" title="Isekai Quartet">
         <entry id="A-MAL-38472" title="Isekai Quartet">
@@ -21,6 +21,12 @@
                 status="Completed"
                 boredom="0.5"
                 episodes="12"
+            />
+            <writing
+                character="0.2"
+                story="0.3"
+                pacing="0.5"
+                originality="0.8"
             />
         </entry>
 
@@ -45,6 +51,12 @@
                 episodes="12"
             />
             <dropped />
+            <writing
+                character="0.2"
+                story="0.3"
+                pacing="0.5"
+                originality="0.7"
+            />
         </entry>
     </entry>
 </document>

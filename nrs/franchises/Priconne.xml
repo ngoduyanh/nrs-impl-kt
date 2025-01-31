@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-7086" title="PRINCESS CONNECT!">
         <entry id="A-MAL-39292" title="Princess Connect! Re:Dive">
@@ -18,6 +18,12 @@
             />
             <!-- funny ig -->
             <nei base="0.9" emotions="AP" />
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.7"
+                originality="0.5"
+            />
         </entry>
 
         <entry id="A-MAL-42670" title="Princess Connect! Re:Dive Season 2">
@@ -39,6 +45,12 @@
             <nei base="0.5" emotions="CP" />
             <!-- funny ig -->
             <nei base="0.75" emotions="AP" />
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
 
         <entry

@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-5549" title="Tenshi no 3P!">
         <entry id="A-MAL-34177" title="Tenshi no 3P!">
@@ -21,6 +21,12 @@
             />
             <featureMusic id="M-VGMDB-AL-68189-1" />
             <featureMusic id="M-VGMDB-AL-69018-1" />
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.6"
+                originality="0.5"
+            />
         </entry>
 
         <entry

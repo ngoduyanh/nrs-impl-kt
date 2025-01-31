@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3124" title="SHIROBAKO">
         <entry id="A-MAL-25835" title="Shirobako">
@@ -22,6 +22,12 @@
 
             <!-- there are some memes like "spreading misinformation" etc. etc. -->
             <nei base="0.3" emotions="AP" />
+            <writing
+                character="0.8"
+                story="0.8"
+                pacing="0.8"
+                originality="0.9"
+            />
         </entry>
 
         <entry id="A-MAL-37804" title="Shirobako Movie">
@@ -46,6 +52,12 @@
 
             <!-- bla bla bla post-nozsism cultural renaissance -->
             <aei base="0.5" emotions="CP" />
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.8"
+                originality="0.9"
+            />
         </entry>
     </entry>
 </document>

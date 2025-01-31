@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="A-MAL-48363" title="RPG Fudousan">
         <source>
@@ -15,6 +15,7 @@
         <!-- weak character design, but the thing still looks cute -->
         <visual type="animated" base="0.75" unique="0.3" />
         <killedBy id="F-VGMDB-7059" potential="0.25" effect="0.75" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.4" />
     </entry>
     <entry
         id="A-MAL-48415"
@@ -33,6 +34,7 @@
         <dropped />
         <visual type="animated" base="0.5" unique="0.2" />
         <killedBy id="F-VGMDB-7059" potential="0.1" effect="0.75" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.3" />
     </entry>
     <entry id="A-MAL-50265" title="Spy x Family">
         <source>
@@ -66,6 +68,7 @@
         <!-- also fuck u boat shit -->
         <visual type="animated" base="0.35" unique="0.5" />
         <killedBy id="F-VGMDB-7059" potential="0.5" effect="0.75" />
+        <writing character="0.5" story="0.5" pacing="0.8" originality="0.9" />
     </entry>
     <entry id="A-MAL-50273" title="Tomodachi Game">
         <source>
@@ -83,5 +86,6 @@
 
         <!-- nice plot desu -->
         <aei base="0.5" emotions="AP" />
+        <writing character="0.5" story="0.5" pacing="0.8" originality="0.9" />
     </entry>
 </document>

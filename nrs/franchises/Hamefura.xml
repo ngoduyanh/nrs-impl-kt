@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry
         id="F-VGMDB-9856"
@@ -31,6 +31,12 @@
             <nei base="0.75" emotions="AP" />
 
             <featureMusic id="M-VGMDB-AL-96350-1" />
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.6"
+                originality="0.8"
+            />
         </entry>
 
         <entry
@@ -44,8 +50,8 @@
                 <mal id="42282" />
             </source>
 
-            <!-- asmr girl -->
-            <bestGirl name="Ema Yasuhara" />
+            <!-- down bad -->
+            <bestGirl name="Sophia Ascart" />
 
             <visual type="animated" base="0.4" unique="0.4" />
             <animeConsumedProgress
@@ -57,6 +63,12 @@
             <!-- down bad and horrendous individuals -->
             <!-- haha bakarina -->
             <nei base="0.5" emotions="AP" />
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.6"
+                originality="0.7"
+            />
         </entry>
 
         <entry

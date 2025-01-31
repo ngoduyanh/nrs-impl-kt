@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <!-- imagine almost losing a contentless franchise xddddddddddddd -->
 <document>
     <entry id="F-VGMDB-4043" title="Ao no Kanata no Four Rhythm">
@@ -31,6 +31,13 @@
             <!-- idk what is this ngl -->
             <meme strength="0.8" length="25" />
             <killedBy id="V-VNDB-27448" potential="0.1" effect="0.1" />
+
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.5"
+                originality="0.5"
+            />
         </entry>
 
         <entry

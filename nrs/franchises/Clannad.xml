@@ -1,6 +1,7 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- yep, anime is dying -->
+    <!-- (blud does NOT know about ave mujipeak) -->
     <entry id="F-VGMDB-1018" title="CLANNAD">
         <source>
             <vgmdb product="1018" />
@@ -30,6 +31,12 @@
 
             <!-- omegasad -->
             <!-- <killedBy id="A-MAL-4181" potential="0.3" effect="1.0" /> -->
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry id="A-MAL-4181" title="Clannad: After Story">
@@ -73,6 +80,12 @@
                 episodes="24"
             />
             <visual type="animated" base="0.5" unique="0.75" />
+            <writing
+                character="0.7"
+                story="0.5"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <!-- we have humor ig -->

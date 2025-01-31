@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3370" title="Yamada-kun to 7-nin no Majo">
         <entry id="A-MAL-28677" title="Yamada-kun to 7-nin no Majo (TV)">
@@ -18,6 +18,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.5" unique="0.3" />
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <contains id="M-VGMDB-AL-51918-1" />

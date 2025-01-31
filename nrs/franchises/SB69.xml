@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <def
         name="FesALiveMusic"
@@ -107,6 +107,7 @@
                 <al id="20843" />
                 <mal id="27441" />
             </source>
+            <!-- yapper neg diff -->
             <bestGirl name="Cyan Hijirikawa" />
 
             <featureMusic id="M-VGMDB-AL-51276-1" />
@@ -120,6 +121,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.6" unique="0.4" />
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.8"
+                originality="0.7"
+            />
         </entry>
 
         <entry id="A-MAL-32038" title="Show By Rock!! #">
@@ -150,6 +157,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.6" unique="0.4" />
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
 
         <entry id="A-MAL-40763" title="Show By Rock!! Mashumairesh!!">
@@ -160,6 +173,7 @@
                 <mal id="40763" />
             </source>
             <bestGirl name="Himeko Mashima" />
+            <!-- pogpega love 2000 makeine -->
             <!-- main girl is hoan tinh xdddddddddd -->
             <!-- chao em co gai howan tinh -->
             <!-- actually the cat appeared in last ep but idc -->
@@ -183,6 +197,12 @@
                 status="Completed"
                 boredom="1.0"
                 episodes="12"
+            />
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.8"
+                originality="0.6"
             />
         </entry>
 
@@ -231,6 +251,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.65" unique="0.4" />
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.7"
+                originality="0.6"
+            />
         </entry>
 
         <!-- fes a live has fhana songs lmao -->
@@ -1014,6 +1040,8 @@
         <entry id="G-VGMDB-8429" title="SHOW BY ROCK!! Fes A Live">
             <!-- AllSB69Tracks.keys.forEach { Feature<music base="it" /> } -->
             <visual type="gachaCardArt" base="0.4" unique="0.3" />
+            <!-- i mean i cant read the story -->
+            <validatorSuppress rules="dah-no-writing-impact" />
         </entry>
     </entry>
 

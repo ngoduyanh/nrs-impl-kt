@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-9159" title="Dr. Stone">
         <!-- bac si da -->
@@ -20,6 +20,12 @@
             <!-- "plot is good" -->
             <aei base="0.25" emotions="AP" />
             <featureMusic id="M-VGMDB-AL-87927-1" />
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <contains id="M-VGMDB-AL-87927-1" />
@@ -39,6 +45,12 @@
             />
             <visual type="animated" base="0.3" unique="0.75" />
             <aei base="0.1" emotions="AP" />
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.7"
+                originality="0.7"
+            />
         </entry>
 
         <entry id="A-MAL-50612" title="Dr. Stone: Ryuusui">
@@ -57,6 +69,12 @@
             />
             <visual type="animated" base="0.3" unique="0.75" />
             <nei base="0.6" emotions="AP" />
+            <writing
+                character="0.3"
+                story="0.4"
+                pacing="0.7"
+                originality="0.7"
+            />
         </entry>
     </entry>
 

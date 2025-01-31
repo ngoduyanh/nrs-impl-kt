@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry
         id="F-VGMDB-7638"
@@ -29,6 +29,12 @@
                 episodes="14"
             />
             <visual type="animated" base="0.4" unique="0.5" />
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
 
         <entry
@@ -49,6 +55,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.4" unique="0.5" />
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.8"
+                originality="0.5"
+            />
         </entry>
 
         <entry
@@ -69,6 +81,12 @@
                 episodes="10"
             />
             <visual type="animated" base="0.4" unique="0.5" />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.8"
+                originality="0.5"
+            />
         </entry>
     </entry>
 </document>

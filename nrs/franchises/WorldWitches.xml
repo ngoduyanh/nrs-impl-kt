@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-4639" title="World Witches Series">
         <entry id="A-MAL-3667" title="Strike Witches">
@@ -20,6 +20,12 @@
             />
             <killedBy id="F-VGMDB-694" potential="0.25" effect="0.5" />
             <visual type="animated" base="0.2" unique="0.75" />
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <entry id="A-MAL-32866" title="Brave Witches">
@@ -38,7 +44,7 @@
             <!-- <bestGirl name="Edytha Rossmann" /> -->
             <bestGirl name="Georgette Lemare" />
             <!-- MC and her sister somewhat ressembles Mana Shikimiya -->
-            <!-- and Aone Shikimiya -->
+            <!-- and Aone Shikimiya (hmm is this a yapper brainrot???) -->
             <!-- haha "tạ kami" -->
             <nei base="0.75" emotions="AP" />
 
@@ -49,8 +55,15 @@
             />
             <killedBy id="F-VGMDB-694" potential="0.25" effect="0.5" />
             <visual type="animated" base="0.3" unique="0.5" />
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.7"
+                originality="0.7"
+            />
         </entry>
 
+        <!-- meta witch(es) 2022 -->
         <entry
             id="A-MAL-38006"
             title="Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches"
@@ -88,6 +101,12 @@
             <featureMusic id="M-VGMDB-AL-120491" />
             <featureMusic id="M-VGMDB-AL-120492" />
             <featureMusic id="M-VGMDB-AL-121418" />
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <entry

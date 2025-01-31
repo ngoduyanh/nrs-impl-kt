@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-4168" title="NEW GAME!">
         <!-- humor -->
@@ -36,6 +36,12 @@
             <visual type="animated" base="0.7" unique="0.3" />
 
             <featureMusic id="M-VGMDB-AL-58627-1" />
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.7"
+                originality="0.75"
+            />
         </entry>
 
         <entry id="A-MAL-34914" title="New Game!!">
@@ -56,6 +62,12 @@
             <visual type="animated" base="0.7" unique="0.3" />
 
             <featureMusic id="M-VGMDB-AL-68225-1" />
+            <writing
+                character="0.4"
+                story="0.4"
+                pacing="0.7"
+                originality="0.65"
+            />
         </entry>
 
         <entry

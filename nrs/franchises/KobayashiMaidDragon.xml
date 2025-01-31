@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-8954" title="Kobayashi-san Chi no Maid Dragon">
         <entry
@@ -53,6 +53,12 @@
                 episodes="13"
             />
             <featureMusic id="M-VGMDB-AL-62516-1" />
+            <writing
+                character="0.4"
+                story="0.6"
+                pacing="0.8"
+                originality="0.6"
+            />
         </entry>
     </entry>
 </document>

@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-9703" title="SELECTION PROJECT">
         <entry id="A-MAL-44275" title="Selection Project">
@@ -20,6 +20,12 @@
 
             <killedBy id="F-VGMDB-7059" potential="0.25" effect="0.5" />
             <killedBy id="F-VGMDB-3245" potential="0.25" effect="0.8" />
+            <writing
+                character="0.5"
+                story="0.4"
+                pacing="0.8"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="M-20220319T061727" title="9-tie" entrytype="MusicArtist" />

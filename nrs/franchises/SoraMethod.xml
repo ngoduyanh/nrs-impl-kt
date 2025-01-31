@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-2894" title="Sora no Method">
         <!-- method!!!!!!! mot con nguoi dc xay dung mot -->
@@ -33,6 +33,12 @@
                 episodes="13"
             />
             <visual type="animated" base="0.6" unique="0.4" />
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.6"
+                originality="0.6"
+            />
         </entry>
 
         <entry id="M-VGMDB-AL-47402" title="Stargazer / Larval Stage Planning">

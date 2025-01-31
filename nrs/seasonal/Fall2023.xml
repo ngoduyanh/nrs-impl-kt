@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="A-MAL-53833" title="Watashi no Oshi wa Akuyaku Reijou.">
         <source>
@@ -15,6 +15,7 @@
         <animeConsumedProgress status="Completed" boredom="0.9" episodes="12" />
         <!-- peak MC -->
         <aei base="0.3" emotions="AP" />
+        <writing character="0.4" story="0.3" pacing="0.8" originality="0.6" />
     </entry>
     <entry id="A-MAL-53237" title="Shy">
         <source>
@@ -30,6 +31,7 @@
         <visual type="animated" base="0.45" unique="0.2" />
         <animeConsumedProgress status="Dropped" boredom="0.8" episodes="5" />
         <dropped />
+        <writing character="0.4" story="0.3" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-53262" title="Hoshikuzu Telepath">
@@ -46,6 +48,7 @@
         <visual type="animated" base="0.7" unique="0.2" />
         <animeConsumedProgress status="Dropped" boredom="0.75" episodes="5" />
         <dropped />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.4" />
     </entry>
 
     <entry id="A-MAL-54041" title="16bit Sensation: Another Layer">
@@ -64,6 +67,7 @@
 
         <!-- magireco mentioned!!11!1!!!11! -->
         <nei base="0.3" emotions="AP" />
+        <writing character="0.3" story="0.6" pacing="0.8" originality="0.4" />
     </entry>
 
     <!-- filler anime fr -->
@@ -81,5 +85,6 @@
         <visual type="animated" base="0.6" unique="0.1" />
         <animeConsumedProgress status="Dropped" boredom="0.9" episodes="4" />
         <dropped />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.4" />
     </entry>
 </document>

@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- kirare - happy typhoon and u's - a song for yuyuyu reference -->
     <!-- somewhat changed da world -->
@@ -105,6 +105,13 @@
                 boredom="1.0"
                 episodes="12"
             />
+
+            <writing
+                character="0.5"
+                story="0.7"
+                pacing="0.8"
+                originality="0.9"
+            />
         </entry>
 
         <entry
@@ -156,6 +163,12 @@
                 duration="4:00:00"
             />
             <visual type="lightNovel" base="0.15" unique="0.5" />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry
@@ -185,6 +198,12 @@
                 episodes="6"
             />
             <visual type="animated" base="0.3" unique="0.5" />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry
@@ -217,6 +236,12 @@
                 episodes="6"
             />
             <visual type="animated" base="0.3" unique="0.5" />
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry
@@ -254,6 +279,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.3" unique="0.5" />
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.5"
+                originality="0.8"
+            />
         </entry>
 
         <waifu waifu="Yuuki Yuuna" length="20">

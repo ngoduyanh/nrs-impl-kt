@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-4000" title="Gakkougurashi!">
         <entry id="M-VGMDB-AL-52993" title="Friend Shitai / Gakuen Seikatsubu">
@@ -52,6 +52,12 @@
                 status="Completed"
                 boredom="1.0"
                 episodes="12"
+            />
+            <writing
+                character="0.6"
+                story="0.8"
+                pacing="0.3"
+                originality="0.8"
             />
         </entry>
     </entry>

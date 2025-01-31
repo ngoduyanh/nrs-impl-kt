@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <!-- abandoning heisenberg uncertainty principle is the worst mistake of mankind -->
 <!-- abandoning heisenberg uncertainty principle is the worst mistake of mankind -->
 <!-- abandoning heisenberg uncertainty principle is the worst mistake of mankind -->
@@ -79,6 +79,9 @@
             <!-- somewhat good art tho -->
             <!-- (sherryposters gtfo) -->
             <visual type="animatedGachaCardArt" base="0.5" unique="0.5" />
+
+            <!-- idk much about the story -->
+            <validatorSuppress rules="dah-no-writing-impact" />
         </entry>
 
         <ref name="RemodernizationEra" a_strength="0.7">

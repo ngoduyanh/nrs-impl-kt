@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- holy fuck how many of these songs have been heard by me in osu! bro -->
     <!-- also i hate himeno sena -->
@@ -402,6 +402,12 @@
             />
             <nei base="0.5" emotions="AP" />
             <nei base="0.2" emotions="MP" />
+            <writing
+                character="0.3"
+                story="0.5"
+                pacing="0.7"
+                originality="0.5"
+            />
         </entry>
 
         <entry
@@ -429,6 +435,12 @@
             <featureMusic id="M-20221225T015456" />
             <remix id="M-20240815T041131-2" />
             <remix id="L-20241109T062928" />
+            <writing
+                character="0.4"
+                story="0.6"
+                pacing="0.7"
+                originality="0.5"
+            />
         </entry>
 
         <entry id="A-MAL-36220" title="Itsudatte Bokura no Koi wa 10 cm Datta.">
@@ -455,6 +467,12 @@
             <featureMusic id="M-VGMDB-AL-91835-12" />
             <featureMusic id="M-VGMDB-AL-91835-17" />
             <remix id="M-20240815T041131-9" />
+            <writing
+                character="0.5"
+                story="0.5"
+                pacing="0.7"
+                originality="0.5"
+            />
         </entry>
 
         <entry
@@ -501,6 +519,12 @@
             <!-- no way post-modern (not rst-inspired) cp-based anime!1! -->
             <nei base="0.5" emotions="CP" />
             <remix id="L-20241109T062928" />
+            <writing
+                character="0.6"
+                story="0.6"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <!-- skibidi toilet brainrot incoming -->
@@ -1057,6 +1081,12 @@
             <remix id="M-20240815T044532-1" />
             <remix id="M-20240815T044532-2" />
             <remix id="M-20240815T044532-4" />
+            <writing
+                character="0.8"
+                story="0.5"
+                pacing="0.7"
+                originality="0.6"
+            />
         </entry>
     </entry>
 
@@ -1107,6 +1137,12 @@
             <!-- tpa slop -->
             <remix id="M-20240815T044532-1" />
             <remix id="M-20240815T044532-5" />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.8"
+                originality="0.4"
+            />
         </entry>
 
         <entry
@@ -1124,6 +1160,12 @@
                 status="Watching"
                 boredom="1.0"
                 duration="1:30:00"
+            />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.7"
+                originality="0.4"
             />
         </entry>
 
@@ -1148,6 +1190,12 @@
             <bestGirl name="Mia Luna Tearmoon" />
 
             <visual type="lightNovel" base="0.5" unique="0.5" />
+            <writing
+                character="0.7"
+                story="0.7"
+                pacing="0.8"
+                originality="0.5"
+            />
         </entry>
 
         <ehi>
@@ -1159,6 +1207,7 @@
         </ehi>
     </entry>
 
+    <!-- no way they give yapper's mom an album -->
     <entry id="M-VGMDB-AL-132951" title="Happyend Princess / Sumire Uesaka">
         <source>
             <urls>

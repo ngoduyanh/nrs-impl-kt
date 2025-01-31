@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- yorukara and gbc are the goats this season -->
     <!-- it's just so peak -->
@@ -44,6 +44,8 @@
         <!-- yorukura cooking in the last eps :fire: :fire: :fire: -->
         <!-- normies keep yourself safe -->
         <nei base="0.8" emotions="AU-0.5:CP-0.5" />
+
+        <writing character="0.8" story="0.6" pacing="0.8" originality="0.8" />
     </entry>
 
     <!-- idol renaissance part 2 new meta hype -->

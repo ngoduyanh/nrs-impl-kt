@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- THE ORTENSIA INCIDENT <<<<<<<<<<<<<<<<<< KOIKAKE DARK LORE -->
     <!-- <<<<<<<<<<<<<<<<<< SHERRY BACKSTORY (NO IT'S NOT STFU) -->
@@ -95,6 +95,13 @@
             <remix id="M-20240815T044532-1" />
             <remix id="M-20240815T044532-2" />
             <remix id="M-20240815T044532-3" />
+
+            <writing
+                character="0.8"
+                story="0.6"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry

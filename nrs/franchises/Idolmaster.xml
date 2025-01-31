@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-3559" title="THE IDOLM@STER">
         <entry id="M-VGMDB-AR-32295" title="765 MILLION ALLSTARS" />
@@ -64,6 +64,12 @@
                 episodes="25"
             />
             <visual type="animated" base="0.4" unique="0.3" />
+            <writing
+                character="0.4"
+                story="0.5"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <nei base="0.25" emotions="AP">
@@ -85,6 +91,12 @@
                 episodes="13"
             />
             <visual type="animated" base="0.5" unique="0.2" />
+            <writing
+                character="0.5"
+                story="0.6"
+                pacing="0.7"
+                originality="0.7"
+            />
         </entry>
 
         <entry
@@ -104,6 +116,12 @@
                 episodes="12"
             />
             <visual type="animated" base="0.5" unique="0.2" />
+            <writing
+                character="0.5"
+                story="0.6"
+                pacing="0.7"
+                originality="0.7"
+            />
         </entry>
 
         <entry id="A-MAL-51536" title="The iDOLM@STER Cinderella Girls: U149">
@@ -124,6 +142,12 @@
 
             <!-- that subreddit -->
             <aei base="0.2" emotions="AP" />
+            <writing
+                character="0.5"
+                story="0.6"
+                pacing="0.7"
+                originality="0.7"
+            />
         </entry>
     </entry>
 </document>

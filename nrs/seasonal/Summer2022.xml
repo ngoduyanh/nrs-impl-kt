@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <!-- welcome to summer 2022, where everything is either an AKM reference or a -->
     <!-- disguised idol anime. -->
@@ -23,6 +23,7 @@
         <dropped />
         <killedBy id="F-VGMDB-4499" potential="0.25" effect="0.1" />
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.25" effect="0.75" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.4" />
     </entry>
 
     <entry id="A-MAL-41589" title="Tokyo Mew Mew New ♡">
@@ -45,6 +46,7 @@
         <dropped />
         <killedBy id="F-VGMDB-4499" potential="0.1" effect="0.1" />
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.1" effect="0.75" />
+        <writing character="0.5" story="0.3" pacing="0.8" originality="0.4" />
     </entry>
 
     <entry id="A-MAL-50917" title="Prima Doll">
@@ -77,6 +79,7 @@
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.1" effect="0.75" />
 
         <!-- kusunoki tomori - the prima doll destroyer -->
+        <writing character="0.5" story="0.3" pacing="0.8" originality="0.8" />
     </entry>
 
     <entry id="A-MAL-49470" title="Mamahaha no Tsurego ga Motokano datta">
@@ -109,6 +112,7 @@
         <!-- brb watching the anime of the season -->
         <killedBy id="F-VGMDB-4499" potential="0.1" effect="0.1" />
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.1" effect="0.75" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.6" />
     </entry>
 
     <entry id="A-MAL-50999" title="Extreme Hearts">
@@ -144,6 +148,7 @@
         <animeConsumedProgress status="Completed" boredom="1.0" episodes="12" />
         <killedBy id="F-VGMDB-4499" potential="0.5" effect="0.1" />
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.5" effect="0.75" />
+        <writing character="0.3" story="0.3" pacing="0.8" originality="0.7" />
     </entry>
 
     <entry id="A-MAL-50221" title="Shine Post">
@@ -165,5 +170,6 @@
         <dropped />
         <killedBy id="F-VGMDB-4499" potential="0.65" effect="0.1" />
         <killedBy id="M-VGMDB-AL-76155-2" potential="0.65" effect="0.75" />
+        <writing character="0.6" story="0.5" pacing="0.8" originality="0.6" />
     </entry>
 </document>

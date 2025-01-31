@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <!-- niji originally has 9 girls, then shioriko, lanzhu, mia joined to make it 12 -->
 <!-- so the contain factor of the 9 original girls will be 1.5x the new girls -->
 <!-- doing the math, we got these: -->
@@ -413,6 +413,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
+            <writing
+                character="0.5"
+                story="0.4"
+                pacing="0.7"
+                originality="0.8"
+            />
         </entry>
 
         <entry
@@ -435,6 +441,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
+            <writing
+                character="0.5"
+                story="0.4"
+                pacing="0.7"
+                originality="0.6"
+            />
         </entry>
 
         <entry id="A-MAL-24997" title="Love Live! The School Idol Movie">
@@ -454,6 +466,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             />
             <killedBy id="F-VGMDB-7059" potential="0.1" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
+            <writing
+                character="0.5"
+                story="0.4"
+                pacing="0.7"
+                originality="0.5"
+            />
         </entry>
 
         <entry id="A-MAL-32526" title="Love Live! Sunshine!!">
@@ -473,6 +491,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             />
             <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
+            <writing
+                character="0.8"
+                story="0.6"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="A-MAL-34973" title="Love Live! Sunshine!! 2nd Season">
@@ -493,6 +517,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             />
             <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
+            <writing
+                character="0.8"
+                story="0.6"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
 
         <entry
@@ -514,6 +544,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             />
             <killedBy id="F-VGMDB-7059" potential="0.15" effect="1.0" />
             <visual type="animated" base="0.25" unique="0.4" />
+            <writing
+                character="0.8"
+                story="0.6"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
 
         <!-- niji arcs -->
@@ -604,6 +640,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <!-- LITERALLY EXACTLY 3 YEARS AFTER THE THING -->
             <!-- YOU CAN'T FUCKING MAKE THIS UP -->
             <!-- KJHJFDIUFHSIUFHSIOFJDSKFDSKJFSKJFJDSFSKJF -->
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="A-MAL-41169" title="Love Live! Superstar!!">
@@ -626,6 +668,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             <killedBy id="A-MAL-41530" potential="0.6" effect="0.25" />
             <killedBy id="F-VGMDB-7059" potential="0.6" effect="1.0" />
             <visual type="animated" base="0.6" unique="0.25" />
+            <writing
+                character="0.5"
+                story="0.4"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
 
         <nei base="0.75" emotions="AP">
@@ -682,6 +730,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
             />
             <dropped />
             <killedBy id="F-VGMDB-7059" potential="0.8" effect="1.0" />
+            <writing
+                character="0.5"
+                story="0.4"
+                pacing="0.7"
+                originality="0.4"
+            />
         </entry>
 
         <entry id="A-MAL-50203" title="Love Live! Superstar!! 2nd Season">
@@ -700,6 +754,12 @@ const val NijiOldGirlContainFactor = NijiNewGirlsContainFactor * NijiNewOldRate 
                 status="Unwatched"
                 boredom="0.0"
                 episodes="0"
+            />
+            <writing
+                character="0.5"
+                story="0.4"
+                pacing="0.7"
+                originality="0.4"
             />
         </entry>
     </entry>

@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-6852" title="Seishun Buta Yarou Series">
         <entry
@@ -23,6 +23,12 @@
             <nei base="0.5" emotions="AP" />
             <visual type="animated" base="0.6" unique="0.15" />
             <featureMusic id="M-VGMDB-AL-80253-1" />
+            <writing
+                character="0.5"
+                story="0.7"
+                pacing="0.65"
+                originality="0.75"
+            />
         </entry>
 
         <contains id="M-VGMDB-AL-80253-1" />

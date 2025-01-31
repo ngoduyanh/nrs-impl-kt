@@ -1,4 +1,4 @@
-<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/master/xml/schema.xsd"?>
+<?xml-model href="https://raw.githubusercontent.com/btmxh/nrsml/pr19/xml/schema.xsd"?>
 <document>
     <entry id="F-VGMDB-2633" title="Sword Art Online">
         <entry id="A-MAL-11757" title="Sword Art Online">
@@ -17,6 +17,12 @@
                 episodes="25"
             />
             <visual type="animated" base="0.4" unique="0.25" />
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.8"
+                originality="0.9"
+            />
         </entry>
 
         <entry id="A-MAL-21881" title="Sword Art Online II">
@@ -34,6 +40,12 @@
                 episodes="24"
             />
             <visual type="animated" base="0.4" unique="0.25" />
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <entry id="A-MAL-31765" title="Sword Art Online Movie: Ordinal Scale">
@@ -52,6 +64,12 @@
                 episodeDuration="1:59:00"
             />
             <visual type="animated" base="0.6" unique="0.25" />
+            <writing
+                character="0.3"
+                story="0.3"
+                pacing="0.8"
+                originality="0.8"
+            />
         </entry>
 
         <contains id="M-VGMDB-AL-33537-1" />
